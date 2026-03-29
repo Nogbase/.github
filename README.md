@@ -1,4 +1,3 @@
-# .github
 # Nogbase
 
 Nogbase is a modular platform for building CRM, workflow, and internal operations tools on top of a PocketBase-style backend.
