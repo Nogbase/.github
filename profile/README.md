@@ -1,60 +1,93 @@
 # Nogbase
 
-Nogbase builds modular CRM, operations, and internal business software on top of a flexible PocketBase-driven foundation.
+Nogbase is the operating system for property developers and their broker networks.
 
-The goal is simple: help teams ship custom business systems quickly without taking on unnecessary platform complexity.
+We help real estate teams replace WhatsApp-heavy sales operations with real-time inventory sync, automated commissions, AI-powered workflows, and a broker portal built for speed, clarity, and scale.
 
-## What We Build
+## What Nogbase Does
 
-Nogbase is focused on products and tooling for teams that need:
+Nogbase connects the full developer-to-broker workflow in one platform:
 
-- Custom CRM workflows
-- Internal dashboards and operator tools
-- Fast MVP delivery
-- Extensible backend foundations
-- A practical route from prototype to SaaS
+- Publish projects and inventory quickly
+- Give brokers real-time access to live availability
+- Lock inventory instantly when units are reserved
+- Automate commission calculations and payout tracking
+- Generate offers, contracts, and operational documents with AI
+- Surface analytics for sales, broker performance, and pipeline health
 
-## In This Organization
+## Built For Property Developers
 
-This GitHub organization contains the projects that power the Nogbase ecosystem, including:
+Nogbase gives developers a central operating layer for project launches, broker coordination, and deal operations.
 
-- Core backend foundations
-- Frontend applications
-- SaaS experiments and product variants
+With Nogbase, developers can:
+
+- Onboard projects and publish inventory fast
+- Sync unit availability across broker networks in real time
+- Define commission structures once and automate calculations per deal
+- Track broker performance, sales velocity, and deal pipeline health
+- Generate reservation contracts, sales offers, and statements with AI
+- Integrate with ERPs, booking engines, payment gateways, and other internal systems
+
+## Built For Brokers
+
+Nogbase gives brokers a faster path from inquiry to reservation.
+
+With Nogbase, brokers can:
+
+- Browse live inventory across multiple developers in one portal
+- Submit EOIs and reservations directly without back-and-forth coordination
+- Track commissions with payout timeline visibility
+- Receive launch updates and inventory notifications
+- Use AI-assisted workflows to move from unit inquiry to offer generation and reservation
+- Focus on closing deals instead of chasing spreadsheets, PDFs, and manual updates
+
+## For Developers
+
+This organization also contains the technical foundation behind Nogbase.
+
+Developers working with Nogbase can expect:
+
+- Modular product architecture
+- Frontend and backend applications for real estate operations
 - Shared tooling, automation, and workflow standards
+- API-first thinking for integrations and extensibility
+- A platform designed to support rapid iteration from MVP to production
 
-## Stack
+Typical technologies across Nogbase projects include:
 
-Nogbase projects commonly use:
-
-- PocketBase-based backend foundations
-- Go
 - TypeScript
 - React
 - Vite
+- Go
 - pnpm workspaces
+- PocketBase-based backend foundations
 
-## Approach
+## Why Teams Choose Nogbase
 
-We prefer systems that are:
+Nogbase is designed for operators who need business software that matches how real estate actually works.
 
-- Fast to iterate on
-- Easy to understand
-- Modular by default
-- Practical in production
+We focus on:
 
-That means fewer layers, clearer ownership, and tooling that supports real business workflows instead of getting in the way.
+- Operational clarity
+- Faster sales execution
+- Fewer manual handoffs
+- Better broker coordination
+- More reliable commission workflows
+- Practical AI that removes repetitive work
 
-## Contributing
+## In This Organization
 
-Contributions, fixes, and ideas are welcome.
+This GitHub organization contains the projects, tooling, and shared configuration that support the Nogbase platform, including:
 
-Before opening a large pull request, start with an issue or discussion so implementation direction is clear and review stays efficient.
+- Product applications
+- Backend foundations
+- Developer tooling
+- Shared GitHub workflows and community health files
 
 ## Security
 
-If you believe you have found a security issue, please do not open a public issue. Use the security reporting process defined in this organization’s security policy.
+If you believe you have found a security issue, please do not open a public issue. Follow the security reporting process defined in this organization’s security policy.
 
-## Notes
+## Learn More
 
-This repository exists to manage shared GitHub configuration for the Nogbase organization, including community health files, templates, and automation.
+To learn more about Nogbase, visit the official website and product resources.
