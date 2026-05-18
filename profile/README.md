@@ -41,27 +41,6 @@ With Nogbase, brokers can:
 - Use AI-assisted workflows to move from unit inquiry to offer generation and reservation
 - Focus on closing deals instead of chasing spreadsheets, PDFs, and manual updates
 
-## For Developers
-
-This organization also contains the technical foundation behind Nogbase.
-
-Developers working with Nogbase can expect:
-
-- Modular product architecture
-- Frontend and backend applications for real estate operations
-- Shared tooling, automation, and workflow standards
-- API-first thinking for integrations and extensibility
-- A platform designed to support rapid iteration from MVP to production
-
-Typical technologies across Nogbase projects include:
-
-- TypeScript
-- React
-- Vite
-- Go
-- pnpm workspaces
-- PocketBase-based backend foundations
-
 ## Why Teams Choose Nogbase
 
 Nogbase is designed for operators who need business software that matches how real estate actually works.
